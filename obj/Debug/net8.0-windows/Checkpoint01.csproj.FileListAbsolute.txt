@@ -1,0 +1,16 @@
+C:\Users\labsfiap\source\repos\Checkpoint01\Checkpoint01\bin\Debug\net8.0-windows\Checkpoint01.exe
+C:\Users\labsfiap\source\repos\Checkpoint01\Checkpoint01\bin\Debug\net8.0-windows\Checkpoint01.deps.json
+C:\Users\labsfiap\source\repos\Checkpoint01\Checkpoint01\bin\Debug\net8.0-windows\Checkpoint01.runtimeconfig.json
+C:\Users\labsfiap\source\repos\Checkpoint01\Checkpoint01\bin\Debug\net8.0-windows\Checkpoint01.dll
+C:\Users\labsfiap\source\repos\Checkpoint01\Checkpoint01\bin\Debug\net8.0-windows\Checkpoint01.pdb
+C:\Users\labsfiap\source\repos\Checkpoint01\Checkpoint01\obj\Debug\net8.0-windows\Checkpoint01.Form1.resources
+C:\Users\labsfiap\source\repos\Checkpoint01\Checkpoint01\obj\Debug\net8.0-windows\Checkpoint01.csproj.GenerateResource.cache
+C:\Users\labsfiap\source\repos\Checkpoint01\Checkpoint01\obj\Debug\net8.0-windows\Checkpoint01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\source\repos\Checkpoint01\Checkpoint01\obj\Debug\net8.0-windows\Checkpoint01.AssemblyInfoInputs.cache
+C:\Users\labsfiap\source\repos\Checkpoint01\Checkpoint01\obj\Debug\net8.0-windows\Checkpoint01.AssemblyInfo.cs
+C:\Users\labsfiap\source\repos\Checkpoint01\Checkpoint01\obj\Debug\net8.0-windows\Checkpoint01.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\source\repos\Checkpoint01\Checkpoint01\obj\Debug\net8.0-windows\Checkpoint01.dll
+C:\Users\labsfiap\source\repos\Checkpoint01\Checkpoint01\obj\Debug\net8.0-windows\refint\Checkpoint01.dll
+C:\Users\labsfiap\source\repos\Checkpoint01\Checkpoint01\obj\Debug\net8.0-windows\Checkpoint01.pdb
+C:\Users\labsfiap\source\repos\Checkpoint01\Checkpoint01\obj\Debug\net8.0-windows\Checkpoint01.genruntimeconfig.cache
+C:\Users\labsfiap\source\repos\Checkpoint01\Checkpoint01\obj\Debug\net8.0-windows\ref\Checkpoint01.dll
